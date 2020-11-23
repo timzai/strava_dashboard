@@ -24,3 +24,14 @@ The `data` folder is not included because it cannot be redistributed.
 
 Place .fit files ("Fitness Interchange Format") in the `data` folder and run dashboard.ipynb for the dashboard
 
+## Packages and Versions
+
+```
+pandas 1.1.1
+numpy 1.19.1
+folium 0.11.0
+plotly 4.12.0
+jupyter_dash 0.3.0
+fitparse 1.1.0
+dash 1.17.0
+```
